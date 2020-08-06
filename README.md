@@ -32,7 +32,7 @@ I mostly work on web app to help people learn and be more productive. Currently 
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tchin25&hide=css,html,c%2b%2b,c" />
 </span>
 <span>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tchin25&hide=css,html,c%2b%2b,c" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=tchin25&count_private=true&hide=issues,contribs" />
 </span>
 
 <!--
