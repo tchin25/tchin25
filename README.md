@@ -2,11 +2,34 @@
 
 I am a web developer focused mostly on JAM Stacking with Nuxt + Firebase, although I can do other stuff as well ;)
 
-<span>
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=tchin25&count_private=true" />
-</span>
+<details>
+ <summary><strong>Frontend Technologies</strong></summary>
+   - Vue/Nuxt <br/>
+   - React Hooks/Gatsby <br/>
+   - Svelte <br/>
+   - SCSS <br/>
+   - Materialize, TailwindCSS, BulmaCSS <br/>
+   - UX Design <br/>
+   - SEO Optimization <br/>
+   - A11y Accessibility Guidlines <br/>
+</details>
+
+<details>
+ <summary><strong>Backend Technologies</strong></summary>
+   - Firebase Stack (Auth, Cloud Functions, Firestore, Cloud Storage, Analytics) <br/>
+   - Google Cloud, AWS, and Azure (Yep, I had to learn all 3 platforms for my cloud computing class in college) <br/>
+   - NodeJS & Express <br/>
+   - NoSQL (MongoDB & Firestore) <br/>
+   - SQL (Although at this point I only use SQLite and only for local data storage) <br/>
+</details>
+
+
+
 <span>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tchin25&hide=css,html" />
+</span>
+<span>
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=tchin25&count_private=true" />
 </span>
 
 <!--
