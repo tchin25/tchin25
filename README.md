@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+I am a web developer focused mostly on JAM Stacking with Nuxt + Firebase, although I can do other stuff as well ;)
+
+<span>
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=tchin25&count_private=true" />
+</span>
+<span>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tchin25&hide=css,html" />
+</span>
+
 <!--
 **tchin25/tchin25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
