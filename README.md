@@ -2,6 +2,8 @@
 
 I am a web developer focused mostly on JAM Stacking with Nuxt + Firebase, although I can do other stuff as well ;)
 
+I mostly work on web app to help people learn and be more productive. Currently freelancing but open to being hired remote.
+
 <details>
  <summary><strong>Frontend Technologies</strong></summary>
    - Vue/Nuxt <br/>
@@ -21,9 +23,10 @@ I am a web developer focused mostly on JAM Stacking with Nuxt + Firebase, althou
    - NodeJS & Express <br/>
    - NoSQL (MongoDB & Firestore) <br/>
    - SQL (Although at this point I only use SQLite and only for local data storage) <br/>
+   - Corvid by Wix <br/>
 </details>
 
-
+---
 
 <span>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tchin25&hide=css,html" />
