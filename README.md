@@ -5,6 +5,12 @@ I am a web developer focused mostly on JAM Stacking with Nuxt + Firebase, althou
 I mostly work on web app to help people learn and be more productive. Currently freelancing but open to being hired remote.
 
 <details>
+ <summary><strong>Recent Projects</strong></summary>
+   - <a href="https://shouldipartyduringapandemic.com">Should I Party During A Pandemic?</a> <br/>
+   - <a href="https://tchin25.github.io/text-to-anki/">Text To Anki</a> <br/>
+</details>
+
+<details>
  <summary><strong>Frontend Technologies</strong></summary>
    - Vue/Nuxt <br/>
    - React Hooks/Gatsby <br/>
