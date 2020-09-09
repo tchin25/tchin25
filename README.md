@@ -32,6 +32,8 @@ I mostly work on web app to help people learn and be more productive. Currently 
    - Corvid by Wix <br/>
 </details>
 
+If you're a recruiter who came here from LinkedIn, indicate in your message that you saw my GitHub so I know you're legit <3
+
 ---
 
 <span>
