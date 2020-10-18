@@ -6,6 +6,7 @@ I mostly work on web app to help people learn and be more productive. Currently 
 
 <details>
  <summary><strong>Recent Projects</strong></summary>
+   - <a href="https://tchin25.github.io/dont-fall-asleep/">Don't Fall Asleep</a> <br/>
    - <a href="https://tchin25.github.io/timebox/">Simple Timeboxer</a> <br/>
    - <a href="https://shouldipartyduringapandemic.com">Should I Party During A Pandemic?</a> <br/>
    - <a href="https://tchin25.github.io/text-to-anki/">Text To Anki</a> <br/>
