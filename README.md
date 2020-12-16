@@ -6,6 +6,7 @@ I mostly work on web app to help people learn and be more productive. Currently 
 
 <details>
  <summary><strong>Recent Projects</strong></summary>
+   - <a href="https://tchin25.github.io/japanese-dependency-visualizer/#/">Japanese Dependency Visualizer</a> <br/>
    - <a href="https://dontfallasleep.online">Don't Fall Asleep</a> <br/>
    - <a href="https://tchin25.github.io/timebox/">Simple Timeboxer</a> <br/>
    - <a href="https://shouldipartyduringapandemic.com">Should I Party During A Pandemic?</a> <br/>
