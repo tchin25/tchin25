@@ -40,7 +40,7 @@ If you're a recruiter who came here from LinkedIn, indicate in your message that
 ---
 
 <span>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tchin25&hide=css,html,c%2b%2b,c&theme=onedark&hide_border=true" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tchin25&theme=onedark&hide_border=true&langs_count=10&layout=compact" />
 </span>
 <span>
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=tchin25&count_private=true&hide=issues,contribs&theme=onedark&hide_border=true" />
