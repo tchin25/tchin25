@@ -2,7 +2,7 @@
 
 I am a web developer focused mostly on JAM Stacking with Nuxt + Firebase, although I can do other stuff as well ;)
 
-I mostly work on web app to help people learn and be more productive. Currently freelancing but open to being hired remote.
+I mostly work on web apps to help people learn and be more productive. Currently freelancing but open to being hired remote.
 
 <details>
  <summary><strong>Recent Projects</strong></summary>
@@ -40,10 +40,10 @@ If you're a recruiter who came here from LinkedIn, indicate in your message that
 ---
 
 <span>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tchin25&theme=onedark&hide_border=true&langs_count=10&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tchin25&theme=onedark&hide_border=true&langs_count=10&layout=compact" />
 </span>
 <span>
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=tchin25&count_private=true&hide=issues,contribs&theme=onedark&hide_border=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=tchin25&count_private=true&hide=issues,contribs&theme=onedark&hide_border=true" />
 </span>
 
 <!--
