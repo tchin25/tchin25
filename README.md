@@ -2,7 +2,11 @@
 
 I am a web developer focused mostly on JAM Stacking with Nuxt + Firebase, although I can do other stuff as well ;)
 
-I mostly work on web apps to help people learn and be more productive. Currently freelancing but open to being hired remote.
+Currently freelancing but open to being hired remote.
+
+Most of the project shown here are web apps targeted to help language learning and productivity.
+
+Also check out my <a href="https://barelylingual.net/">language learning blog</a> if you're interested.
 
 <details>
  <summary><strong>Recent Projects</strong></summary>
@@ -17,7 +21,6 @@ I mostly work on web apps to help people learn and be more productive. Currently
  <summary><strong>Frontend Technologies</strong></summary>
    - Vue/Nuxt <br/>
    - React Hooks/Gatsby <br/>
-   - Svelte <br/>
    - SCSS <br/>
    - Materialize, TailwindCSS, BulmaCSS <br/>
    - UX Design <br/>
@@ -28,8 +31,10 @@ I mostly work on web apps to help people learn and be more productive. Currently
 <details>
  <summary><strong>Backend Technologies</strong></summary>
    - Firebase Stack (Auth, Cloud Functions, Firestore, Cloud Storage, Analytics) <br/>
-   - Google Cloud, AWS, and Azure (Yep, I had to learn all 3 platforms for my cloud computing class in college) <br/>
+   - Google Cloud, AWS, and technically Azure but dang are they expensive <br/>
+   - Netlify <br/>
    - NodeJS & Express <br/>
+   - Docker (If you need someone to do custom scalable infrastructure like Kubernetes, please hire a DevOps Engineer instead) <br/>
    - NoSQL (MongoDB & Firestore) <br/>
    - SQL (Although at this point I only use SQLite and only for local data storage) <br/>
    - Corvid by Wix <br/>
