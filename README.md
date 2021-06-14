@@ -2,8 +2,6 @@
 
 I am a full-stack engineer focused mostly on JAM Stacking with Nuxt + Firebase, although I can do other stuff as well ;)
 
-Currently freelancing but open to being hired remote.
-
 Most of the projects shown here are web apps targeted to help language learning and productivity.
 
 Also check out my <a href="https://barelylingual.net/">language learning blog</a> if you're interested.
