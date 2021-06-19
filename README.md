@@ -43,10 +43,10 @@ If you're a recruiter who came here from LinkedIn, indicate in your message that
 ---
 
 <span>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tchin25&theme=onedark&hide_border=true&langs_count=10&layout=compact" />
+  <img align="center" src="https://github.com/tchin25/github-stats/blob/master/generated/overview.svg" />
 </span>
 <span>
-  <img align="center" src="https://github.com/tchin25/github-stats/blob/master/generated/overview.svg" />
+  <img align="center" src="https://github.com/tchin25/github-stats/blob/master/generated/languages.svg" />
 </span>
 
 <!--
