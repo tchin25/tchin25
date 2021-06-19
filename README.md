@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a full-stack engineer focused mostly on JAM Stacking with Nuxt + Firebase, although I can do other stuff as well ;)
+I am a software engineer who mostly Jamstacks on Vue during his free time.
 
 Most of the projects shown here are web apps targeted to help language learning and productivity.
 
@@ -29,7 +29,7 @@ Also check out my <a href="https://barelylingual.net/">language learning blog</a
 <details>
  <summary><strong>Backend Technologies</strong></summary>
    - Firebase Stack (Auth, Cloud Functions, Firestore, Cloud Storage, Analytics) <br/>
-   - Google Cloud, AWS, and technically Azure but dang are they expensive <br/>
+   - Google Cloud, AWS, and I touched Azure exactly once in my life (apologies to my friend who works on the Azure team - you know who you are) <br/>
    - Netlify <br/>
    - NodeJS & Express <br/>
    - Docker (If you need someone to do custom scalable infrastructure like Kubernetes, please hire a DevOps Engineer instead) <br/>
