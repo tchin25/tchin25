@@ -16,26 +16,25 @@ Also check out my <a href="https://barelylingual.net/">language learning blog</a
 </details>
 
 <details>
- <summary><strong>Frontend Technologies</strong></summary>
+ <summary><strong>Frontend Skills</strong></summary>
    - Vue/Nuxt <br/>
    - React Hooks/Gatsby <br/>
-   - SCSS <br/>
+   - Jest & Cypress <br/>
    - Materialize, TailwindCSS, BulmaCSS <br/>
+   - Figma/Adobe XD <br/>
    - UX Design <br/>
    - SEO Optimization <br/>
    - A11y Accessibility Guidlines <br/>
 </details>
 
 <details>
- <summary><strong>Backend Technologies</strong></summary>
+ <summary><strong>Backend Skills</strong></summary>
    - Firebase Stack (Auth, Cloud Functions, Firestore, Cloud Storage, Analytics) <br/>
    - Google Cloud, AWS, and I touched Azure exactly once in my life (apologies to my friend who works on the Azure team - you know who you are) <br/>
    - Netlify <br/>
    - NodeJS & Express <br/>
    - Docker (If you need someone to do custom scalable infrastructure like Kubernetes, please hire a DevOps Engineer instead) <br/>
-   - NoSQL (MongoDB & Firestore) <br/>
-   - SQL (Although at this point I only use SQLite and only for local data storage) <br/>
-   - Corvid by Wix <br/>
+   - SQL/NoSQL <br/>
 </details>
 
 If you're a recruiter who came here from LinkedIn, indicate in your message that you saw my GitHub so I know you're legit <3
