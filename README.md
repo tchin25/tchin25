@@ -9,7 +9,7 @@ Also check out my <a href="https://barelylingual.net/">language learning blog</a
 <details>
  <summary><strong>Recent Projects</strong></summary>
    - <a href="https://tchin25.github.io/japanese-dependency-visualizer/#/">Japanese Dependency Visualizer</a> <br/>
-   - <a href="https://dontfallasleep.online">Don't Fall Asleep</a> <br/>
+   - <a href="https://github.com/tchin25/dont-fall-asleep">Don't Fall Asleep</a> <br/>
    - <a href="https://tchin25.github.io/timebox/">Simple Timeboxer</a> <br/>
    - <a href="https://shouldipartyduringapandemic.com">Should I Party During A Pandemic?</a> <br/>
    - <a href="https://tchin25.github.io/text-to-anki/">Text To Anki</a> <br/>
