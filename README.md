@@ -14,7 +14,7 @@ Also check out my <a href="https://barelylingual.net/">language learning blog</a
    - <a href="https://shouldipartyduringapandemic.com">Should I Party During A Pandemic?</a> <br/>
    - <a href="https://tchin25.github.io/text-to-anki/">Text To Anki</a> <br/>
 </details>
-
+<!--
 <details>
  <summary><strong>Frontend Skills</strong></summary>
    - Vue/Nuxt <br/>
@@ -38,7 +38,7 @@ Also check out my <a href="https://barelylingual.net/">language learning blog</a
 </details>
 
 If you're a recruiter who came here from LinkedIn, indicate in your message that you saw my GitHub so I know you're legit <3
-
+-->
 ---
 
 <span>
