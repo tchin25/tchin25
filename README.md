@@ -9,11 +9,20 @@ Also check out my <a href="https://barelylingual.net/">language learning blog</a
 <details>
  <summary><strong>Recent Projects</strong></summary>
    - <a href="https://tchin25.github.io/japanese-dependency-visualizer/#/">Japanese Dependency Visualizer</a> <br/>
-   - <a href="https://github.com/tchin25/dont-fall-asleep">Don't Fall Asleep</a> <br/>
+   - <a href="https://dont-fall-asleep.web.app/">Don't Fall Asleep</a> <br/>
    - <a href="https://tchin25.github.io/timebox/">Simple Timeboxer</a> <br/>
    - <a href="https://shouldipartyduringapandemic.com">Should I Party During A Pandemic?</a> <br/>
    - <a href="https://tchin25.github.io/text-to-anki/">Text To Anki</a> <br/>
 </details>
+
+---
+
+<span>
+  <img align="center" src="https://github.com/tchin25/github-stats/blob/master/generated/overview.svg" />
+</span>
+<span>
+  <img align="center" src="https://github.com/tchin25/github-stats/blob/master/generated/languages.svg" />
+</span>
 <!--
 <details>
  <summary><strong>Frontend Skills</strong></summary>
@@ -39,14 +48,6 @@ Also check out my <a href="https://barelylingual.net/">language learning blog</a
 
 If you're a recruiter who came here from LinkedIn, indicate in your message that you saw my GitHub so I know you're legit <3
 -->
----
-
-<span>
-  <img align="center" src="https://github.com/tchin25/github-stats/blob/master/generated/overview.svg" />
-</span>
-<span>
-  <img align="center" src="https://github.com/tchin25/github-stats/blob/master/generated/languages.svg" />
-</span>
 
 <!--
 **tchin25/tchin25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
