@@ -6,14 +6,14 @@ Most of the projects shown here are web apps targeted to help language learning 
 
 Also check out my <a href="https://barelylingual.net/">language learning blog</a> if you're interested.
 
-<details>
+<!-- <details>
  <summary><strong>Recent Projects</strong></summary>
    - <a href="https://tchin25.github.io/japanese-dependency-visualizer/#/">Japanese Dependency Visualizer</a> <br/>
    - <a href="https://dont-fall-asleep.web.app/">Don't Fall Asleep</a> <br/>
    - <a href="https://tchin25.github.io/timebox/">Simple Timeboxer</a> <br/>
    - <a href="https://shouldipartyduringapandemic.com">Should I Party During A Pandemic?</a> <br/>
    - <a href="https://tchin25.github.io/text-to-anki/">Text To Anki</a> <br/>
-</details>
+</details> -->
 
 ---
 
