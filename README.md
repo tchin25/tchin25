@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=FFDA00&background=FFFFFF00&center=true&vCenter=true&lines=Hi+there+%F0%9F%91%8B" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=F97316&background=FFFFFF00&center=true&vCenter=true&lines=Hi+there+%F0%9F%91%8B" />
 </div>
 
 <div align="center">
@@ -28,6 +28,9 @@ Also check out my <a href="https://barelylingual.net/">language learning blog</a
 ---
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=tchin25&rank=-C,-B&margin-w=8&theme=flat" />
+<img src="https://github-profile-trophy.vercel.app/?username=tchin25&rank=-C&margin-w=8&theme=flat" />
 </div>
 
+<div align="center">
+  <img height="200" src="https://149674310.v2.pressablecdn.com/wp-content/uploads/2019/01/letsgoch.png" />
+</div>
