@@ -25,11 +25,11 @@ Also check out my <a href="https://barelylingual.net/">language learning blog</a
 </span>
 </div>
 
----
-
 <div align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=tchin25&rank=-C&margin-w=8&theme=flat" />
 </div>
+
+---
 
 <div align="center">
   <img height="200" src="https://149674310.v2.pressablecdn.com/wp-content/uploads/2019/01/letsgoch.png" />
