@@ -26,7 +26,7 @@ Also check out my <a href="https://barelylingual.net/">language learning blog</a
 </div>
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=tchin25&rank=-C&margin-w=8&theme=flat" />
+<img src="https://github-profile-trophy.vercel.app/?username=tchin25&rank=-C,-?&margin-w=8&theme=flat" />
 </div>
 
 ---
