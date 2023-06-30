@@ -12,7 +12,9 @@ I am a software engineer at the [Wikimedia Foundation](https://github.com/wikime
 
 Most of the projects shown here are web apps targeted to help language learning and productivity.
 
-Also check out my <a href="https://barelylingual.net/">language learning blog</a> if you're interested.
+If you're looking for a project that I've done but can't find it here, it might be on my *other* GitHub account.
+
+Also, check out my <a href="https://barelylingual.net/">language learning blog</a> if you're interested.
 
 ---
 
