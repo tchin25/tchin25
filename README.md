@@ -3,7 +3,13 @@
 </div>
 
 <div align="center">
-  <img src="https://pbs.twimg.com/media/DepEIeTV4AAbkvO.jpg" />
+  <picture>
+    <source
+      media="(prefers-color-scheme:dark)"
+      srcset="/"
+    />
+    <img src="https://pbs.twimg.com/media/DepEIeTV4AAbkvO.jpg" />
+  </picture>
 </div>
 
 ---
@@ -34,5 +40,11 @@ Also, check out my <a href="https://barelylingual.net/">language learning blog</
 ---
 
 <div align="center">
-  <img height="200" src="https://149674310.v2.pressablecdn.com/wp-content/uploads/2019/01/letsgoch.png" />
+  <picture>
+    <source
+      media="(prefers-color-scheme:dark)"
+      srcset="/"
+    />
+    <img height="200" src="https://149674310.v2.pressablecdn.com/wp-content/uploads/2019/01/letsgoch.png" />
+  </picture>
 </div>
