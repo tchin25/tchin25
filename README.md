@@ -5,8 +5,9 @@
 <div align="center">
   <picture>
     <source
+      height="200"
       media="(prefers-color-scheme:dark)"
-      srcset=""
+      srcset="https://upload.wikimedia.org/wikipedia/commons/1/17/1Picture_of_space_from_the_northern_hemisphere.jpg"
     />
     <img src="https://pbs.twimg.com/media/DepEIeTV4AAbkvO.jpg" />
   </picture>
@@ -42,8 +43,9 @@ Also, check out my <a href="https://barelylingual.net/">language learning blog</
 <div align="center">
   <picture>
     <source
+      height="200"
       media="(prefers-color-scheme:dark)"
-      srcset=""
+      srcset="https://upload.wikimedia.org/wikipedia/commons/5/5e/Stars_01_%28MK%29.jpg"
     />
     <img height="200" src="https://149674310.v2.pressablecdn.com/wp-content/uploads/2019/01/letsgoch.png" />
   </picture>
