@@ -17,9 +17,9 @@
 
 I am a software engineer at the [Wikimedia Foundation](https://github.com/wikimedia) who mostly Jamstacks on Vue during his free time.
 
-Most of the projects shown here are web apps targeted to help language learning and productivity.
+Most of the projects shown here are either prototypes of things I'm doing for work, or web apps targeted to help language learning and productivity.
 
-If you're looking for a project that I've done but can't find it here, it might be on my *other* GitHub account.
+If you're looking for a project that I've done but can't find it here, it might be on my [Gitlab](https://gitlab.wikimedia.org/tchin) or one of my *other* GitHub accounts (which are secret).
 
 Also, check out my <a href="https://barelylingual.net/">language learning blog</a> if you're interested.
 
